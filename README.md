@@ -7,6 +7,8 @@ This movie recommendation website provides personalized movie suggestions using 
 <img width="330" height="250" alt="image" src="https://github.com/SeanBaek111/React-Movie-Recommendation-Website/assets/33170173/32d6752d-fd59-451f-b4cb-89eb4f95857b">
 <img width="330" height="250" alt="image" src="https://github.com/SeanBaek111/React-Movie-Recommendation-Website/assets/33170173/8da0f489-e73b-44f2-a1ec-1f0a8339c92b">
 <img width="330" height="250" alt="image" src="https://github.com/SeanBaek111/React-Movie-Recommendation-Website/assets/33170173/71da88b1-ec03-4112-958d-8ba40a16e1ee">
+<img width="330" height="250" alt="image" src="https://github.com/SeanBaek111/React-Movie-Recommendation-Website/assets/33170173/ca8698e3-a42e-471e-9978-5ada3c6a42cc">
+<img width="330" height="250" alt="image" src="https://github.com/SeanBaek111/React-Movie-Recommendation-Website/assets/33170173/9de76ec9-79ae-4eb7-8a07-c878c811cf25">
 <img width="330" height="250" alt="image" src="https://github.com/SeanBaek111/React-Movie-Recommendation-Website/assets/33170173/496272ab-bad6-4caa-9c8a-34c85fae0164">
 </p>
 ### Purpose & Description
