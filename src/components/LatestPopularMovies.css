@@ -1,0 +1,38 @@
+.ag-theme-alpine {
+  flex-grow: 1;
+  width: 100%;
+  max-width: 1200px;
+  height: 610px;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 8px;
+}
+
+.ag-theme-alpine .ag-pinned-right-cols-viewport {
+  overflow-y: scroll;
+}
+
+.ag-theme-alpine .ag-header-row {
+  background-color: #1c212e;
+  color: #fff;
+  font-weight: bold;
+  border-bottom: 1px solid #ddd;
+}
+.ag-header-cell-label {
+  justify-content: center;
+}
+.ag-theme-alpine .ag-cell-value {
+  color: #333;
+}
+
+.ag-theme-alpine .ag-row {
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+.ag-theme-alpine .ag-row:nth-child(odd) {
+  background-color: #f4f4f4;
+}
+
+.ag-theme-alpine .ag-row:hover {
+  background-color: #eee;
+}
