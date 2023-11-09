@@ -3,6 +3,10 @@
 ## Introduction
 This movie recommendation website provides personalized movie suggestions using user input and the GPT API. It's a React application with a user-friendly interface and additional modules for enhanced functionality.
 
+<img width="449" alt="image" src="https://github.com/SeanBaek111/React-Movie-Recommendation-Website/assets/33170173/32d6752d-fd59-451f-b4cb-89eb4f95857b">
+<img width="452" alt="image" src="https://github.com/SeanBaek111/React-Movie-Recommendation-Website/assets/33170173/8da0f489-e73b-44f2-a1ec-1f0a8339c92b">
+<img width="452" alt="image" src="https://github.com/SeanBaek111/React-Movie-Recommendation-Website/assets/33170173/71da88b1-ec03-4112-958d-8ba40a16e1ee">
+
 ### Purpose & Description
 The goal is to create an engaging website that offers accurate movie recommendations using the GPT API, allowing users to discover new movies based on their preferences.
 
